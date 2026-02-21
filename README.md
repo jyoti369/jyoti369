@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Debojyoti%20Mandal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Juspay%20%7C%20Top%201%25%20CP%20%7C%20Distributed%20Systems&descAlignY=60&descSize=14&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Debojyoti%20Mandal&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%40%20Juspay%20%7C%20Top%201%25%20CP%20%7C%20Java%20%C2%B7%20Go%20%C2%B7%20Distributed%20Systems&descAlignY=52&descSize=16&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=500K%2B+daily+transactions+%40+Juspay+%E2%9A%A1;5x+API+latency+improvement+(sub+50ms);Top+1%25+Competitive+Programmer+%F0%9F%8F%86;CodeChef+5%E2%98%85+%7C+2032+Rating;3000%2B+Problems+Solved+%F0%9F%92%AA;Java+%7C+Go+%7C+Haskell+%7C+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=500K%2B+daily+transactions+%40+Juspay+%E2%9A%A1;5x+API+latency+improvement+(sub+50ms);Top+1%25+Competitive+Programmer+%F0%9F%8F%86;CodeChef+5%E2%98%85+%7C+2032+Rating;LeetCode+Guardian+%F0%9F%9B%A1%EF%B8%8F+%7C+2179+Rating;3000%2B+Problems+Solved+%F0%9F%92%AA;Java+%7C+Go+%7C+Haskell+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,7 +34,7 @@ public class Debojyoti {
     String[] cloud    = {"AWS (EC2/S3/SQS)", "Docker", "Kubernetes", "Terraform"};
     String[] backend  = {"PostgreSQL", "Kafka", "ActiveMQ", "Redis", "REST", "OAuth2"};
 
-    String highlight  = "🏆 CodeChef 5★ (2032) · AIR 3 CodeStudio · GFG Rank #1 Institute";
+    String highlight  = "🏆 CodeChef 5★ (2032) · LeetCode Guardian (2179) · AIR 3 CodeStudio · GFG Rank #1";
 }
 ```
 
@@ -93,8 +93,8 @@ public class Debojyoti {
 | 🏆 Platform | Handle | Achievement |
 |---|---|---|
 | **CodeChef** | [jyoti369](https://www.codechef.com/users/jyoti369) | ⭐⭐⭐⭐⭐ **2032 Rating** — Top 1% globally |
+| **LeetCode** | [jyoti369](https://leetcode.com/jyoti369) | 🛡️ **Guardian** — **2179 Rating** · AIR 11 Weekly Contest 307 |
 | **Codeforces** | jyoti369 | **1517 Rating** |
-| **LeetCode** | [jyoti369](https://leetcode.com/jyoti369) | **AIR 11** — Weekly Contest 307 |
 | **GeeksforGeeks** | jyoti369 | **Rank #1** at institute — **3000+ solves** |
 | **CodeStudio** | jyoti369 | **AIR 3** — Monthly Contest #7 |
 
