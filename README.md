@@ -49,9 +49,19 @@ public class Debojyoti {
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jyoti369&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=340" height="160" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyoti369&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyoti369&theme=tokyonight)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti369&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" height="160"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyoti369&theme=tokyonight)
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyoti369&theme=tokyonight)
+
 </div>
 
 ---
@@ -113,14 +123,6 @@ public class Debojyoti {
 ---
 
 ## 🚀 Projects
-
-<div align="center">
-
-[![fullstack-kit](https://github-readme-stats.vercel.app/api/pin/?username=jyoti369&repo=fullstack-kit&theme=tokyonight&hide_border=true)](https://github.com/jyoti369/fullstack-kit)
-&nbsp;
-[![text-to-sql](https://github-readme-stats.vercel.app/api/pin/?username=jyoti369&repo=text-to-sql-powerhouse&theme=tokyonight&hide_border=true)](https://github.com/jyoti369/text-to-sql-powerhouse)
-
-</div>
 
 | Project | Stack | Highlights |
 |---|---|---|
