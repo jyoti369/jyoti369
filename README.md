@@ -72,15 +72,31 @@ public class Debojyoti {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,python,cpp,typescript,haskell&perline=6)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,postgres,kafka,redis,graphql&perline=6)](https://skillicons.dev)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Cloud & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,gitlab,github&perline=6)](https://skillicons.dev)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -95,7 +111,7 @@ public class Debojyoti {
 | **CodeChef** | [jyoti369](https://www.codechef.com/users/jyoti369) | ⭐⭐⭐⭐⭐ **2032 Rating** — Top 1% globally |
 | **LeetCode** | [jyoti369](https://leetcode.com/jyoti369) | 🛡️ **Guardian** — **2179 Rating** · AIR 11 Weekly Contest 307 |
 | **Codeforces** | jyoti369 | **1517 Rating** |
-| **GeeksforGeeks** | jyoti369 | **Rank #1** at institute — **3000+ solves** |
+| **GeeksforGeeks** | jyoti369 | **Ranked #1** at institute — **3,000+ problems** solved |
 | **CodeStudio** | jyoti369 | **AIR 3** — Monthly Contest #7 |
 
 </div>
@@ -126,7 +142,7 @@ public class Debojyoti {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**fullstack-kit**](https://github.com/jyoti369/fullstack-kit) | Java, Python | Auto-commits DSA + system design daily — 121 items, 4x/day |
+| [**fullstack-kit**](https://github.com/jyoti369/fullstack-kit) | Java | Daily Java practice — DSA, system design, Spring snippets & interview prep |
 | [**Text-to-SQL Engine**](https://github.com/jyoti369/text-to-sql-powerhouse) | Node.js, PostgreSQL, LLMs | 95% accuracy, 500 rps, <200ms p99 |
 | [**Sorting Visualizer**](https://jyoti369.github.io/sorting_visualizer/) | React.js | 8 algorithms, 60 FPS, live demo |
 
