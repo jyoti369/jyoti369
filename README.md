@@ -9,8 +9,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jyoti369&color=6366f1&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/jyoti369?style=flat-square&color=6366f1&label=Followers&logo=github)](https://github.com/jyoti369?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debojyoti-mandal/)
+[![Sponsor](https://img.shields.io/badge/💝_Sponsor_my_OSS_work-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jyoti369)
 
 </div>
+
+---
+
+## 💝 Support my work
+
+If something I've built or contributed to has helped you, consider [becoming a sponsor](https://github.com/sponsors/jyoti369) — it directly funds my weekend OSS time on alerting, monitoring, and developer tooling.
+
+<a href="https://github.com/sponsors/jyoti369"><img src="https://img.shields.io/github/sponsors/jyoti369?style=for-the-badge&logo=github-sponsors&label=Sponsors&color=EA4AAA" alt="GitHub Sponsors"/></a>
 
 ---
 
