@@ -29,7 +29,7 @@ If something I've built or contributed to has helped you, consider [becoming a s
 public class Debojyoti {
 
     String  name       = "Debojyoti Mandal";
-    String  role       = "Software Development Engineer @ Juspay";
+    String  role       = "Software Engineer II";
     String  location   = "Kolkata → Bangalore, India";
 
     String[] currentWork = {
